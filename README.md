@@ -15,3 +15,14 @@ Visualization Tools: Offers functions for visualizing the simulation results, al
 
 ![GPU_2a](https://user-images.githubusercontent.com/94797491/152184206-d36591af-2d96-4177-9b7c-99a1a0fa5d0e.jpg)
 Fig. 1.  Comparison between the execution speed of the basic GPU code, the modified GPU code, and coordinating the GPU and CPU code.
+
+---
+
+
+## 📌 Citation
+
+If you use this code in your research, please cite the following paper:
+
+* Dodge S, Shafiee M, Shokri B. "Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma Using MATLAB Parallel Processing Toolbox," arXiv preprint arXiv:2211.05647. 2022 Nov 10. DOI: [10.48550/arXiv.2211.05647](https://doi.org/10.48550/arXiv.2211.05647)
+
+---
